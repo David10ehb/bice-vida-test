@@ -1,0 +1,57 @@
+.div-card-poliza {
+  width: 328px;
+  padding-bottom: 10px;
+  background: #FFFFFF;
+  border: 1px solid #DDE3ED;
+  border-radius: 8px;
+  margin: 0;
+  position: relative;
+  box-shadow: 1px 1px 15px rgb(203, 202, 202);
+}
+
+.title-card-poliza {
+  font-family: Poppins;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: -0.2px;
+  color: #060B25;
+  padding: 5px 10px;
+  margin: 0;
+}
+
+.p-card-poliza {
+  font-family: Poppins;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: -0.2px;
+  color: #58606E;
+  padding: 0px 10px;
+  margin: 0
+}
+
+.image-card-poliza {
+  width: 328px;
+  height: 192px;
+}
+
+.label-card-poliza {
+  background: #1F61F7;
+  border-radius: 4px;
+  position: absolute;
+  top: 150px;
+  left: 10px;
+  padding: 5px;
+
+}
+
+.label-text-card-poliza {
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: -0.2px;
+  color: #F5F7FA;
+
+}

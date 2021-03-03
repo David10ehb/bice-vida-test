@@ -1,0 +1,43 @@
+select {
+  width: 100%;
+  padding: 10px;
+  margin: 10px;
+}
+
+.not-select {
+  background: #FFFFFF;
+  border: 1px solid #DDE3ED;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.not-select:focus-visible {
+  background: #FFFFFF;
+  border: 2px solid #1F61F7;
+  box-sizing: border-box;
+  border-radius: 5px;
+
+}
+
+.label-no-select {
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  color: #AFBACC;
+}
+
+.select {
+  background: #FFFFFF;
+  border: 2px solid #1F61F7;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.label-select {
+  font-family: Poppins;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  color: #1F61F7;
+}
